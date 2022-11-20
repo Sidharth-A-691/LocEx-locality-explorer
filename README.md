@@ -2,7 +2,7 @@
 <body> 
 
 ## Description 
-<p> LocEx is a project we made using HTML,CSS,javascript and JQuery for a hackathon,basically a website model helps small-scale businesses by promoting their local products.
+<p> LocEx is a project we made using HTML, CSS, javascript and JQuery for a hackathon, basically a website model helps small-scale businesses by promoting their local products.
 </p>
 
 ## Overview
