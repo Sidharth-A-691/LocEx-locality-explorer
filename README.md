@@ -8,7 +8,7 @@
 ## Overview
 <p>By having Google Maps recognize a user's location,he/she gets to know about the local specialties of that particular area (just Kerala,for now) in a detailed fashion. The product listing will have all the products that the area is famous for. Eg: Kanchipuram is known for its silk sarees and the closest local silk saree shops will be listed for the user. Apart from that, these local products can also be ordered and shipped so that distant users can also access these products thereby upscaling and promoting these small-scale businesses.
 </p>
-<p>The payment gateway we used once you proceed to checkout from the cart is 'sandbox paypal',which is basically a virtual testing environment mimicing real worrld transactions where no real is involved 
+<p>The payment gateway we used once you proceed to checkout from the cart is 'sandbox paypal', which is basically a virtual testing environment mimicing real world transactions where no real money is involved.
 </p>
 <p>Do note that there's still a lot of bugs in the website and would appreciate if y'all could contribute.</p>
 
